@@ -110,7 +110,5 @@ Built from a wireframe sketch and a raw dataset.
 ---
 
 ## Files
-
-- `Initial_Data.xlsx`: raw referral and call log data (Referrals, Call Log, Call Log Full, POs)
-- `Foster_Placement_Dashboard.pbix`:  Power BI file (open in Power BI Desktop)
-- `Dashboard_Preview.pdf`: static export for viewing without Power BI
+- [Initial_Data.xlsx](Initial_Data.xlsx): raw referral and call log data (Referrals, Call Log, Call Log Full, POs)
+- [Foster_Placement_Performance_Dashboard.pbix](Foster_Placement_Performance_Dashboard.pbix): Power BI file (open in Power BI Desktop)
